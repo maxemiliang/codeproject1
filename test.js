@@ -7,3 +7,7 @@ function add(a, b) {
 function hello1() {
     console.log("Hello world");
 }
+
+function minus(a, b) {
+    return a - b;
+}

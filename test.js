@@ -1,4 +1,4 @@
-console.log("Hejsan från Utvecklare 1!");
+console.log("Hejsan från Pontus!");
 
 function add(a, b) {
     return a + b;

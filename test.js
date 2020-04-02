@@ -5,5 +5,5 @@ function add(a, b) {
 }
 
 function hello1() {
-    console.log("Hello world");
+    console.log("Hello world!");
 }

@@ -1,4 +1,5 @@
 console.log("Hejsan från Utvecklare 1!");
+console.log("Hejsan hejsan");
 
 function add(a, b) {
     return a + b;
